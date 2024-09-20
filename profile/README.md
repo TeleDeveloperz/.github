@@ -1,69 +1,57 @@
-# Welcome to Telegram Developers Community
+<p align="center">
+  <img src="https://www.dogelana.com/images/telegram_banner.jpg" alt="Telegram Developers Community Banner" width="100%">
+</p>
 
-![Telegram Developers Community Banner](https://files.readme.io/8f70837-Banner2x.png)
+<h1 align="center">Telegram Developers Community</h1>
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Ftwa-dev.com&style=for-the-badge&logo=telegram)](https://twa-dev.com)
-[![Telegram](https://img.shields.io/badge/Join-Telegram-blue.svg?style=for-the-badge&logo=telegram)](https://t.me/TeleDeveloperz)
-[![GitHub Org's stars](https://img.shields.io/github/stars/TeleDeveloperz?style=for-the-badge)](https://github.com/TeleDeveloperz)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+<p align="center">
+  <a href="https://twa-dev.com"><img src="https://img.shields.io/badge/Website-twa--dev.com-blue?style=flat-square&logo=web" alt="Website"></a>
+  <a href="https://t.me/TeleDeveloperz"><img src="https://img.shields.io/badge/Telegram-TeleDeveloperz-blue?style=flat-square&logo=telegram" alt="Telegram"></a>
+  <a href="https://github.com/TeleDeveloperz"><img src="https://img.shields.io/github/stars/TeleDeveloperz?style=flat-square&logo=github" alt="GitHub stars"></a>
+</p>
 
-## About Us
+## 🚀 Our Mission
 
-We are a vibrant community of builders dedicated to enhancing the developer experience for the Telegram Mini Apps (TMA) platform. Our mission is to empower developers with cutting-edge tools, comprehensive documentation, and insightful tutorials.
+We empower developers to build exceptional Telegram Mini Apps and Web Apps. Our community provides free APIs, tools, and resources to enhance your development experience.
 
-### What We Do
+## 🛠️ What We Offer
 
-- 🛠️ Develop tools to streamline TMA development
-- 📚 Create and maintain up-to-date documentation
-- 🎓 Provide tutorials and learning resources
-- 🤝 Foster a collaborative environment for TMA developers
+- **Free APIs**: Accelerate your development with our robust, no-cost APIs
+- **Developer Tools**: Streamline your workflow with our custom-built tools
+- **Comprehensive Docs**: Access clear, concise documentation for all our offerings
+- **Community Support**: Join a network of passionate Telegram app developers
 
-## Community Growth
+## 📊 How Our API Helps You
 
 ```mermaid
-graph TD
-    A[Community Launch] --> B[100+ Members]
-    B --> C[500+ Members]
-    C --> D[1000+ Members]
-    D --> E[Active Projects]
-    E --> F[Continuous Growth]
-    style A fill:#f9d71c,stroke:#333,stroke-width:2px
-    style F fill:#f9d71c,stroke:#333,stroke-width:2px
+graph LR
+    A[Your App] --> B[Our API]
+    B --> C[Faster Development]
+    B --> D[Enhanced Features]
+    B --> E[Scalability]
+    C --> F[Launch]
+    D --> F
+    E --> F
+    style F fill:#f96,stroke:#333,stroke-width:2px
 ```
 
-## Featured Projects
+## 🌟 Get Involved
 
-| Project Name | Description | Status |
-|--------------|-------------|--------|
-| TMA CLI | Command-line tool for TMA development | [![Status](https://img.shields.io/badge/status-active-success.svg)]() |
-| TMA Docs | Comprehensive documentation for TMA | [![Status](https://img.shields.io/badge/status-ongoing-blue.svg)]() |
-| TMA Templates | Starter templates for quick development | [![Status](https://img.shields.io/badge/status-beta-orange.svg)]() |
+1. **Star our repositories**: Show support and stay updated
+2. **Follow our organization**: Never miss our latest tools and updates
+3. **Contribute**: Join us in improving the Telegram development ecosystem
+4. **Spread the word**: Help us grow this amazing community
 
-## Get Involved
+## 📬 Connect With Us
 
-We welcome contributions from developers of all skill levels. Here's how you can get involved:
+- **Website**: [https://twa-dev.com](https://twa-dev.com)
+- **Telegram**: [https://t.me/TeleDeveloperz](https://t.me/TeleDeveloperz)
+- **Email**: contributor@twa-dev.com
 
-1. 🌟 Star our repositories
-2. 🐛 Report issues or suggest features
-3. 🔧 Submit pull requests
-4. 📢 Share your TMA projects with the community
+<p align="center">
+  <i>Together, let's revolutionize Telegram app development!</i>
+</p>
 
-## Connect With Us
-
-- Website: [https://twa-dev.com](https://twa-dev.com)
-- Telegram: [https://t.me/TeleDeveloperz](https://t.me/TeleDeveloperz)
-- Email: contributor@twa-dev.com
-
-## Location
-
-🌎 Based in the United States of America
-
----
-
-<div align="center">
-
-**Together, let's push the boundaries of what's possible with Telegram Mini Apps!**
-
-[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=TeleDeveloperz.TeleDeveloperz)](https://github.com/TeleDeveloperz)
-
-</div>
+<p align="center">
+  <a href="https://github.com/TeleDeveloperz?tab=repositories"><img src="https://img.shields.io/badge/View%20Our-Repositories-green?style=for-the-badge&logo=github" alt="View Our Repositories"></a>
+</p>
